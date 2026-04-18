@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
 <h3 align="center">I'm trying to become a frontend developer</h3>
-
-- 🔭 I’m currently working on [Quiz-app](https://budziol.github.io/quiz-appka/)
-
-- 🌱 I’m currently learning **TypeScript**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Budziol](https://github.com/Budziol)
 
 - 📫 How to reach me **patrykbudziol123@gmail.com**
